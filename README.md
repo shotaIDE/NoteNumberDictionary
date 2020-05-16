@@ -1,5 +1,6 @@
 # Note Number Dictionary
 
+![Build and test](https://github.com/shotaIDE/NoteNumberDictionary/workflows/Build%20and%20test/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 https://note-number-dictionary.web.app/
